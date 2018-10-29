@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "comprar pan y queso",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "hacer las arepas",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "comprar querosene",
+      "isComplete": true
+    },
+    {
+      "id": 4,
+      "name": "eat sleep rave repeat",
+      "isComplete": true
+    }
+  ]
+}
